@@ -1,0 +1,8 @@
+NObeyesdad,count,min,mean,max,std
+Insufficient_Weight,267,13.0,17.39,19.08,0.79
+Normal_Weight,282,18.49,22.01,24.91,1.85
+Overweight_Level_I,276,22.83,25.96,28.77,0.66
+Overweight_Level_II,290,25.71,28.22,30.36,0.83
+Obesity_Type_I,351,29.91,32.26,35.17,1.13
+Obesity_Type_II,297,34.05,36.72,39.79,1.29
+Obesity_Type_III,324,36.77,42.27,50.81,2.58

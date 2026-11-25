@@ -1,0 +1,22 @@
+clase,modelo,precision,recall,f1-score,support
+Insufficient_Weight,Regresión logística,0.5424,0.6038,0.5714,53.0
+Normal_Weight,Regresión logística,0.5897,0.4035,0.4792,57.0
+Overweight_Level_I,Regresión logística,0.5588,0.3455,0.427,55.0
+Overweight_Level_II,Regresión logística,0.3889,0.1207,0.1842,58.0
+Obesity_Type_I,Regresión logística,0.4762,0.7143,0.5714,70.0
+Obesity_Type_II,Regresión logística,0.5263,0.8333,0.6452,60.0
+Obesity_Type_III,Regresión logística,0.9412,0.9846,0.9624,65.0
+Insufficient_Weight,Árbol de decisión,0.7541,0.8679,0.807,53.0
+Normal_Weight,Árbol de decisión,0.6512,0.4912,0.56,57.0
+Overweight_Level_I,Árbol de decisión,0.6349,0.7273,0.678,55.0
+Overweight_Level_II,Árbol de decisión,0.6226,0.569,0.5946,58.0
+Obesity_Type_I,Árbol de decisión,0.6338,0.6429,0.6383,70.0
+Obesity_Type_II,Árbol de decisión,0.7778,0.8167,0.7967,60.0
+Obesity_Type_III,Árbol de decisión,1.0,0.9846,0.9922,65.0
+Insufficient_Weight,Random Forest,0.8929,0.9434,0.9174,53.0
+Normal_Weight,Random Forest,0.6912,0.8246,0.752,57.0
+Overweight_Level_I,Random Forest,0.8444,0.6909,0.76,55.0
+Overweight_Level_II,Random Forest,0.8333,0.6897,0.7547,58.0
+Obesity_Type_I,Random Forest,0.8378,0.8857,0.8611,70.0
+Obesity_Type_II,Random Forest,0.9048,0.95,0.9268,60.0
+Obesity_Type_III,Random Forest,1.0,0.9846,0.9922,65.0

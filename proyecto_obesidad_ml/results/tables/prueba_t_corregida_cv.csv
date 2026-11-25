@@ -1,0 +1,4 @@
+modelo_A,modelo_B,diferencia_media_F1,t_corregido,p_valor,significativo_5%
+Regresión logística,Árbol de decisión,-0.1825,-9.6785,0.0,True
+Regresión logística,Random Forest,-0.2895,-21.5923,0.0,True
+Árbol de decisión,Random Forest,-0.107,-8.4985,0.0,True

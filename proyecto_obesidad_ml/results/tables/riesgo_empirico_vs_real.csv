@@ -1,0 +1,4 @@
+modelo,riesgo_empirico,riesgo_cv,riesgo_prueba,brecha_generalizacion
+Regresión logística,0.3978,0.4207,0.4139,0.016
+Árbol de decisión,0.0,0.2444,0.2703,0.2703
+Random Forest,0.009,0.1426,0.1435,0.1346

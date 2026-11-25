@@ -1,0 +1,4 @@
+modelo,mean,std,min,max,coef_variacion_%
+Regresión logística,0.5552,0.0298,0.4813,0.5981,5.3625
+Árbol de decisión,0.7377,0.025,0.6817,0.7923,3.3894
+Random Forest,0.8447,0.0189,0.8048,0.8799,2.2403

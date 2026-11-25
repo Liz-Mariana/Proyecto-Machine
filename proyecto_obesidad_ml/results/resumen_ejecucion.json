@@ -1,0 +1,65 @@
+{
+  "fecha_ejecucion": "2026-11-24 19:58",
+  "duracion_min": 5.83,
+  "entorno": {
+    "python": "3.13.18",
+    "scikit-learn": "1.9.1",
+    "pandas": "3.1.1",
+    "numpy": "2.5.5"
+  },
+  "semilla": 42,
+  "datos": {
+    "filas": 2111,
+    "columnas": 17,
+    "valores_faltantes": 0,
+    "filas_duplicadas": 24,
+    "filas_tras_limpieza": 2087,
+    "n_train": 1669,
+    "n_test": 418
+  },
+  "coincidencia_regla_OMS": 0.9511,
+  "modelos": [
+    {
+      "modelo": "Regresión logística",
+      "busqueda_seleccionada": "Random Search",
+      "accuracy_train": 0.6022,
+      "accuracy_test": 0.5861,
+      "precision_test": 0.5748,
+      "recall_test": 0.5722,
+      "f1_train": 0.5784,
+      "f1_cv_media": 0.5552,
+      "f1_cv_std": 0.0415,
+      "f1_test": 0.5487,
+      "brecha_train_test_f1": 0.0297,
+      "brecha_train_cv_f1": 0.0232
+    },
+    {
+      "modelo": "Árbol de decisión",
+      "busqueda_seleccionada": "Grid Search",
+      "accuracy_train": 1.0,
+      "accuracy_test": 0.7297,
+      "precision_test": 0.7249,
+      "recall_test": 0.7285,
+      "f1_train": 1.0,
+      "f1_cv_media": 0.7492,
+      "f1_cv_std": 0.0341,
+      "f1_test": 0.7238,
+      "brecha_train_test_f1": 0.2762,
+      "brecha_train_cv_f1": 0.2508
+    },
+    {
+      "modelo": "Random Forest",
+      "busqueda_seleccionada": "Grid Search",
+      "accuracy_train": 0.991,
+      "accuracy_test": 0.8565,
+      "precision_test": 0.8578,
+      "recall_test": 0.8527,
+      "f1_train": 0.9909,
+      "f1_cv_media": 0.8541,
+      "f1_cv_std": 0.0149,
+      "f1_test": 0.852,
+      "brecha_train_test_f1": 0.1388,
+      "brecha_train_cv_f1": 0.1368
+    }
+  ]
+}

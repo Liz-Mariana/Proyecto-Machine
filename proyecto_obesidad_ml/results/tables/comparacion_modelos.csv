@@ -1,0 +1,4 @@
+modelo,busqueda_seleccionada,accuracy_train,accuracy_test,precision_test,recall_test,f1_train,f1_cv_media,f1_cv_std,f1_test,brecha_train_test_f1,brecha_train_cv_f1
+Regresión logística,Random Search,0.6022,0.5861,0.5748,0.5722,0.5784,0.5552,0.0415,0.5487,0.0297,0.0232
+Árbol de decisión,Grid Search,1.0,0.7297,0.7249,0.7285,1.0,0.7492,0.0341,0.7238,0.2762,0.2508
+Random Forest,Grid Search,0.991,0.8565,0.8578,0.8527,0.9909,0.8541,0.0149,0.852,0.1388,0.1368

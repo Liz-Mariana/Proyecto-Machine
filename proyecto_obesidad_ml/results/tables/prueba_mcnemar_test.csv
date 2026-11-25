@@ -1,0 +1,4 @@
+modelo_A,modelo_B,A_acierta_B_falla,A_falla_B_acierta,p_valor,significativo_5%
+Regresión logística,Árbol de decisión,38,98,0.0,True
+Regresión logística,Random Forest,8,121,0.0,True
+Árbol de decisión,Random Forest,17,70,0.0,True

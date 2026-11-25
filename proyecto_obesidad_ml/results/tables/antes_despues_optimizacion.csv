@@ -1,0 +1,7 @@
+modelo,version,f1_train,f1_cv,f1_test,accuracy_test,brecha_train_test
+Regresión logística,Por defecto,0.5715,0.5497,0.542,0.5837,0.0295
+Regresión logística,Optimizado,0.5784,0.5552,0.5487,0.5861,0.0297
+Árbol de decisión,Por defecto,1.0,0.7492,0.7238,0.7297,0.2762
+Árbol de decisión,Optimizado,1.0,0.7492,0.7238,0.7297,0.2762
+Random Forest,Por defecto,1.0,0.8464,0.8452,0.8493,0.1548
+Random Forest,Optimizado,0.9909,0.8541,0.852,0.8565,0.1388

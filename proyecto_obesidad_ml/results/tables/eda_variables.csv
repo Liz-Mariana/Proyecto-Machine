@@ -1,0 +1,18 @@
+variable,descripcion,tipo_pandas,tipo_estadistico,valores_unicos,faltantes
+Gender,Género,str,Categórica nominal (binaria),2,0
+Age,Edad (años),float64,Numérica,1402,0
+Height,Estatura (m),float64,Numérica,1574,0
+Weight,Peso (kg),float64,Numérica,1525,0
+family_history_with_overweight,Antecedente familiar de sobrepeso,str,Categórica nominal (binaria),2,0
+FAVC,Consumo frecuente de alimentos hipercalóricos,str,Categórica nominal (binaria),2,0
+FCVC,Frecuencia de consumo de verduras (1-3),float64,Numérica,810,0
+NCP,Número de comidas principales al día (1-4),float64,Numérica,635,0
+CAEC,Consumo de alimentos entre comidas,str,Categórica ordinal,4,0
+SMOKE,Fuma,str,Categórica nominal (binaria),2,0
+CH2O,Consumo diario de agua (1-3),float64,Numérica,1268,0
+SCC,Monitorea las calorías que consume,str,Categórica nominal (binaria),2,0
+FAF,Frecuencia de actividad física (0-3),float64,Numérica,1190,0
+TUE,Tiempo de uso de dispositivos tecnológicos (0-2),float64,Numérica,1129,0
+CALC,Consumo de alcohol,str,Categórica ordinal,4,0
+MTRANS,Medio de transporte habitual,str,Categórica nominal,5,0
+NObeyesdad,Nivel de obesidad (variable objetivo),str,"Categórica (objetivo, ordinal)",7,0

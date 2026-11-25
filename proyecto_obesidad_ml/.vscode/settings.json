@@ -1,0 +1,8 @@
+{
+  "python.terminal.activateEnvironment": true,
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
+  "markdown.math.enabled": true,
+  "files.exclude": {
+    "**/__pycache__": true
+  }
+}

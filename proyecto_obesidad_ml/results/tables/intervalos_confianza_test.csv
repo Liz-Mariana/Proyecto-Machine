@@ -1,0 +1,4 @@
+modelo,accuracy,accuracy_IC95_inf,accuracy_IC95_sup,f1_macro,f1_IC95_inf,f1_IC95_sup
+Regresión logística,0.5861,0.5383,0.6316,0.5487,0.5016,0.5919
+Árbol de decisión,0.7297,0.689,0.7703,0.7238,0.6824,0.764
+Random Forest,0.8565,0.8206,0.89,0.852,0.8143,0.8837

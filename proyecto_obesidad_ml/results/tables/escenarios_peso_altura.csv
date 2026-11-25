@@ -1,0 +1,8 @@
+escenario,modelo,f1_macro_cv_media,f1_macro_cv_std
+Sin Weight y Height (principal),Regresión logística,0.5497,0.0436
+Sin Weight y Height (principal),Árbol de decisión,0.7492,0.0341
+Sin Weight y Height (principal),Random Forest,0.8464,0.0192
+Con Weight y Height,Regresión logística,0.8616,0.0306
+Con Weight y Height,Árbol de decisión,0.9188,0.0156
+Con Weight y Height,Random Forest,0.9432,0.0135
+Solo IMC (1 variable),Árbol de decisión (profundidad 4),0.9539,0.0129

@@ -1,0 +1,46 @@
+modelo,parametro,valor,f1_train,f1_validacion
+Regresión logística,C,0.001,0.272,0.2614
+Regresión logística,C,0.0032,0.3694,0.3532
+Regresión logística,C,0.01,0.4546,0.4323
+Regresión logística,C,0.0316,0.5164,0.493
+Regresión logística,C,0.1,0.5477,0.5253
+Regresión logística,C,0.3162,0.5672,0.545
+Regresión logística,C,1.0,0.5723,0.5489
+Regresión logística,C,3.1623,0.577,0.5516
+Regresión logística,C,10.0,0.5782,0.5539
+Regresión logística,C,31.6228,0.5775,0.5544
+Regresión logística,C,100.0,0.5777,0.5539
+Regresión logística,C,316.2278,0.578,0.5546
+Regresión logística,C,1000.0,0.578,0.5552
+Árbol de decisión,max_depth,1.0,0.1454,0.1454
+Árbol de decisión,max_depth,2.0,0.276,0.2724
+Árbol de decisión,max_depth,3.0,0.4138,0.3919
+Árbol de decisión,max_depth,4.0,0.5254,0.4982
+Árbol de decisión,max_depth,5.0,0.6509,0.6198
+Árbol de decisión,max_depth,6.0,0.7217,0.6523
+Árbol de decisión,max_depth,7.0,0.7773,0.6705
+Árbol de decisión,max_depth,8.0,0.836,0.6975
+Árbol de decisión,max_depth,9.0,0.8817,0.7092
+Árbol de decisión,max_depth,10.0,0.919,0.7221
+Árbol de decisión,max_depth,11.0,0.9503,0.7327
+Árbol de decisión,max_depth,12.0,0.9693,0.7473
+Árbol de decisión,max_depth,13.0,0.9822,0.7446
+Árbol de decisión,max_depth,14.0,0.9917,0.7381
+Árbol de decisión,max_depth,15.0,0.9963,0.7476
+Árbol de decisión,max_depth,16.0,0.9982,0.7437
+Árbol de decisión,max_depth,17.0,0.9994,0.741
+Árbol de decisión,max_depth,18.0,0.9997,0.7453
+Árbol de decisión,max_depth,19.0,1.0,0.7492
+Árbol de decisión,max_depth,20.0,1.0,0.7492
+Random Forest,max_depth,1.0,0.377,0.3672
+Random Forest,max_depth,2.0,0.4521,0.4288
+Random Forest,max_depth,3.0,0.5431,0.5029
+Random Forest,max_depth,4.0,0.6576,0.606
+Random Forest,max_depth,6.0,0.8175,0.7089
+Random Forest,max_depth,8.0,0.9196,0.7915
+Random Forest,max_depth,10.0,0.9696,0.8227
+Random Forest,max_depth,12.0,0.9855,0.8446
+Random Forest,max_depth,15.0,0.9919,0.8445
+Random Forest,max_depth,20.0,0.9922,0.8541
+Random Forest,max_depth,25.0,0.9921,0.8521
+Random Forest,max_depth,30.0,0.9921,0.8521

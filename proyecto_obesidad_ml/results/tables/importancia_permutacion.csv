@@ -1,0 +1,43 @@
+modelo,variable,importancia_media,importancia_std
+Regresión logística,Age,0.0853,0.0135
+Regresión logística,FCVC,0.096,0.0167
+Regresión logística,NCP,0.0349,0.0084
+Regresión logística,CH2O,0.0044,0.0096
+Regresión logística,FAF,0.0099,0.0075
+Regresión logística,TUE,0.0049,0.0073
+Regresión logística,CAEC,0.0576,0.0089
+Regresión logística,CALC,0.024,0.0105
+Regresión logística,Gender,0.1322,0.0137
+Regresión logística,family_history_with_overweight,0.1109,0.012
+Regresión logística,FAVC,0.0213,0.0065
+Regresión logística,SMOKE,-0.0001,0.0024
+Regresión logística,SCC,0.0274,0.0074
+Regresión logística,MTRANS,0.0712,0.0144
+Árbol de decisión,Age,0.2383,0.0197
+Árbol de decisión,FCVC,0.2291,0.0166
+Árbol de decisión,NCP,0.128,0.0117
+Árbol de decisión,CH2O,0.0385,0.0101
+Árbol de decisión,FAF,0.056,0.0114
+Árbol de decisión,TUE,0.1522,0.0145
+Árbol de decisión,CAEC,0.0645,0.0099
+Árbol de decisión,CALC,0.07,0.0081
+Árbol de decisión,Gender,0.1823,0.0181
+Árbol de decisión,family_history_with_overweight,0.1072,0.0102
+Árbol de decisión,FAVC,0.0271,0.0056
+Árbol de decisión,SMOKE,-0.0015,0.0018
+Árbol de decisión,SCC,0.0137,0.0033
+Árbol de decisión,MTRANS,0.0407,0.0055
+Random Forest,Age,0.2102,0.0147
+Random Forest,FCVC,0.1865,0.0123
+Random Forest,NCP,0.0827,0.0086
+Random Forest,CH2O,0.0452,0.0088
+Random Forest,FAF,0.0423,0.0072
+Random Forest,TUE,0.0524,0.0118
+Random Forest,CAEC,0.0523,0.0102
+Random Forest,CALC,0.0547,0.0076
+Random Forest,Gender,0.2291,0.0171
+Random Forest,family_history_with_overweight,0.109,0.0097
+Random Forest,FAVC,0.0333,0.0052
+Random Forest,SMOKE,0.0003,0.0008
+Random Forest,SCC,0.0067,0.0022
+Random Forest,MTRANS,0.0415,0.0068
